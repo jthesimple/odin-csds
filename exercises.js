@@ -20,8 +20,14 @@ function power(x,n){
 };
 
 
-console.log(power(2,3));
+function factorial(num){
+    if (num===1){
+        return 1;
+    } else{
+        let answer = num * factorial(num -1);
+        return answer;
 
+    };
 
-
+};
 
