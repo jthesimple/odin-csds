@@ -1,0 +1,20 @@
+{
+  "name": "odin-csds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exercises.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jthesimple/odin-csds.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jthesimple/odin-csds/issues"
+  },
+  "homepage": "https://github.com/jthesimple/odin-csds#readme"
+}
